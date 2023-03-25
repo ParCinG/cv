@@ -2,3 +2,11 @@ hr {
 border-color: black;
 border-height: 2px;
 }
+
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: red;
+}
