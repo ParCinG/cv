@@ -6,13 +6,11 @@ border-height: 2px;
 a:link {
   color: green;
   background-color: transparent;
-  text-decoration: none;
 }
 
 a:visited {
   color: red;
   background-color: transparent;
-  text-decoration: none;
 }
 
 a:hover {
