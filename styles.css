@@ -2,6 +2,7 @@ div {
     background-color: black;
     height: 4000px;
     width: 800px;
+    margin: auto;
 }
 
 hr {
