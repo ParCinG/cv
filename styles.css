@@ -1,3 +1,9 @@
+div {
+    background-color: black;
+    height: 100%
+    width: 40%
+}
+
 hr {
     border-color: black;
     border-height: 2px;
