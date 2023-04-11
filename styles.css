@@ -2,6 +2,7 @@ div {
     background-color: black;
     width: 35%;
     margin: auto;
+    min-height: 100%;
 }
 
 hr {
@@ -41,4 +42,8 @@ p {
 body {
     background-color: #116897;
     color: #972f1f;
+}
+
+h3 {
+    margin-left: 5px
 }
