@@ -1,12 +1,11 @@
 div {
     background-color: black;
-    height: 4000px;
-    width: 40%;
+    width: 30%;
     margin: auto;
 }
 
 hr {
-    border-color: black;
+    border-color: #34BAD4;
     border-height: 2px;
 }
 
@@ -37,4 +36,9 @@ a:active {
 p {
     margin-right: 5;
     margin-left: 5;
+}
+
+body {
+    background-color: #34BAD4;
+    color: #972f1f;
 }
