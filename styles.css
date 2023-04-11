@@ -33,3 +33,8 @@ a:active {
     background-color: transparent;
     text-decoration: underline;
 }
+
+p {
+    margin-right: 5;
+    margin-left: 5;
+}
