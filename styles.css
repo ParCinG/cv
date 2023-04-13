@@ -41,12 +41,22 @@ p {
 
 body {
     background-color: #116897;
-    color: #972f1f;
+    color: #C72553;
     padding: 5px 0;
+    font-family: 'Merriweather', serif;
 }
 
 h3 {
     margin-left: 5px
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
 }
 
 strong {
