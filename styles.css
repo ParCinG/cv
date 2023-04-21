@@ -4,6 +4,7 @@ div {
     margin: auto;
     min-height: 100%;
     max-width: 800px;
+    padding: 5px;
 }
 
 hr {
@@ -35,15 +36,9 @@ a:active {
     text-decoration: underline;
 }
 
-p {
-    margin-right: 5;
-    margin-left: 5;
-}
-
 body {
     background-color: #116897;
     color: red;
-    padding: 5px 0;
     font-family: 'Merriweather', serif;
 }
 
@@ -52,7 +47,6 @@ h4 {
 }
 
 h3 {
-    margin-left: 5px
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -62,8 +56,4 @@ h2 {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-}
-
-strong {
-    margin-left: 5px
 }
